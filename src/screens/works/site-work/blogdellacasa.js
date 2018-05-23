@@ -21,7 +21,7 @@ class Blogdellacasa extends Component {
         //portfolio
 
         //get dataaaa
-        const url = 'https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/data/Data.json';
+        const url = 'https://raw.githubusercontent.com/xmabusil/santacruz/master/src/data/Data.json';
 
         // in axios access data with .data
 
