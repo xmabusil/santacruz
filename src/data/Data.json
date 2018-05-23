@@ -9,10 +9,10 @@
             "see_live_link":"https://www.gimaxrent.it/",
             "link":"gimax",
             "images": {
-                "logo":"https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gimax/logo.png",
-                "desktop": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gimax/desktop.png",
-                "tablet": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gimax/tablet.png",
-                "mobile": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gimax/smart.png"
+                "logo":"https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/gimax/logo.png",
+                "desktop": "https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/gimax/desktop.png",
+                "tablet": "https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/gimax/tablet.png",
+                "mobile": "https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/gimax/smart.png"
 
             },
             "skills": {
@@ -42,10 +42,10 @@
             "see_live_link": "http://www.blogdellacasa.it/",
             "link": "blog_della_casa",
             "images": {
-                "logo": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/bc/logo.png",
-                "desktop": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/bc/desktop.png",
-                "tablet": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/bc/tablet.png",
-                "mobile": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/bc/smart.png"
+                "logo": "https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/bc/logo.png",
+                "desktop": "https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/bc/desktop.png",
+                "tablet": "https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/bc/tablet.png",
+                "mobile": "https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/bc/smart.png"
             },
             "skills": {
                 "design": [
@@ -73,10 +73,10 @@
             "see_live_link": "http://www.green-news.it/",
             "link": "green_news",
             "images": {
-                "logo": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gn/logo.png",
-                "desktop": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gn/desktop.png",
-                "tablet": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gn/tablet.png",
-                "mobile": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gn/smart.png"
+                "logo": "https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/gn/logo.png",
+                "desktop": "https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/gn/desktop.png",
+                "tablet": "https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/gn/tablet.png",
+                "mobile": "https://raw.githubusercontent.com/xmabusil/santacruz/master/src/assets/images/portfolio/gn/smart.png"
             },
             "skills": {
                 "design": [
