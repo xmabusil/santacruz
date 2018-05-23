@@ -1,0 +1,101 @@
+{
+    "PortfolioData": [
+        {
+            "id": "1",
+            "name": "Gimax",
+            "description": "Rental cars, vans and aerial platforms.",
+            "content": "The project is the creation of a website and an interface able to allow the insertion and the division into each type of vehicle for hire.",
+            "released": "November 2017 - February 2018",
+            "see_live_link":"https://www.gimaxrent.it/",
+            "link":"gimax",
+            "images": {
+                "logo":"https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gimax/logo.png",
+                "desktop": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gimax/desktop.png",
+                "tablet": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gimax/tablet.png",
+                "mobile": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gimax/smart.png"
+
+            },
+            "skills": {
+                "design": [
+                    "Wireframe",
+                    "Mockup"
+                ],
+                "technologies": [
+                    "HTML5",
+                    "CSS3 (Flexbox)",
+                    "Sass",
+                    "Javascript",
+                    "Java: jsp",
+                    "Bootstrap",
+                    "Freemarker"
+
+                ],
+                "environment":"Enterprise Portal Liferay 7"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Blog della casa",
+            "description": "Real estate and home news.",
+            "content": "The project is the creation of a website and an interface able to allow the insertion and subdivision of the articles in certain categories, with one or more reference tags, by the client in an autonomous way.",
+            "released": "April 2017",
+            "see_live_link": "http://www.blogdellacasa.it/",
+            "link": "blog_della_casa",
+            "images": {
+                "logo": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/bc/logo.png",
+                "desktop": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/bc/desktop.png",
+                "tablet": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/bc/tablet.png",
+                "mobile": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/bc/smart.png"
+            },
+            "skills": {
+                "design": [
+                    "Wireframe",
+                    "Mockup"
+                ],
+                "technologies": [
+                    "HTML5",
+                    "CSS3 (Flexbox)",
+                    "Sass",
+                    "Javascript",
+                    "Php",
+                    "Modules of Drupal 8",
+                    "Theming Drupal 8 (Twig & Yaml)"
+                ],
+                "environment": "Cms Drupal 8"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Green News",
+            "description": "News on the environment, energy saving and the green world.",
+            "content": "The project is the creation of a website and an interface able to allow the insertion and subdivision of the articles in certain categories, with one or more reference tags, by the client in an autonomous way.",
+            "released": "March 2017",
+            "see_live_link": "http://www.green-news.it/",
+            "link": "green_news",
+            "images": {
+                "logo": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gn/logo.png",
+                "desktop": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gn/desktop.png",
+                "tablet": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gn/tablet.png",
+                "mobile": "https://raw.githubusercontent.com/xmabusil/devsantacruz/master/src/assets/images/portfolio/gn/smart.png"
+            },
+            "skills": {
+                "design": [
+                    "Logo",
+                    "Wireframe",
+                    "Mockup"
+                ],
+                "technologies": [
+                    "HTML5",
+                    "CSS3 (Flexbox)",
+                    "Sass",
+                    "Javascript",
+                    "Php",
+                    "Bootstrap",
+                    "Modules of Drupal 8",
+                    "Theming Drupal 8 (Twig & Yaml)"
+                ],
+                "environment": "Cms Drupal 8"
+            }
+        }
+    ]
+}
